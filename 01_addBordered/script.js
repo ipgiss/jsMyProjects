@@ -1,4 +1,3 @@
-//
 //1. добавить событие click на элемент
 
 document.onclick = function (event) {
@@ -8,5 +7,3 @@ document.onclick = function (event) {
     event.target.classList.add("bordered");
   }
 };
-
-//target.classList.add("bordered");
