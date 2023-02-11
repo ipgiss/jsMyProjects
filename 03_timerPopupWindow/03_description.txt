@@ -1,0 +1,5 @@
+Создайте окно, которое всплывает через 4 секунды после загрузки страницы. В окне - опция "Согласен". 
+Если пользователь выбирает данную опцию и закрывает окно - то при последующих обновлениях окно не показывается. Если пользователь не выбрал опцию "Согласен", то посторяйте вывод окна после оновления страницы.
+
+Create a window that pops up 4 seconds after the page is loaded. In the window - the option "Agree".
+If the user selects this option and closes the window, then the window is not shown on subsequent updates. If the user has not selected the "Agree" option, then keep popping up the window after refreshing the page.
